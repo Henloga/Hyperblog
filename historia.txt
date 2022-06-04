@@ -12,5 +12,9 @@ Su hija se llama Ana Belen
 
 Ana Belen esta cumpliendo 25 días
 
+<<<<<<< HEAD
 
 Su suegra se llama Rosita
+=======
+Los perros se llaman Polo, Milu y Ambar
+>>>>>>> experimento
